@@ -1,0 +1,41 @@
+﻿  main.cpp
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(69,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(102,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(103,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(108,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(109,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(110,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(114,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(115,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(116,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(120,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(121,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(126,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(127,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(128,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(137,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(138,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(142,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(143,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(144,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(147,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(148,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(149,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(152,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(153,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(157,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(158,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(159,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(169,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(172,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(343,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(355,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(367,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(379,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\BasicOpenGLProject\main.cpp(514,45): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Generating code
+  21 of 1003 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+    9 functions were new in current compilation
+    38 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  BasicOpenGLProject.vcxproj -> C:\Users\salva\OneDrive\Documents\CSE170\Lab04\PA2_support_code\x64\Release\OpenGLProject.exe

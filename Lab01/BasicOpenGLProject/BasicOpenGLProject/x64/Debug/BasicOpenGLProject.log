@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\salva\Downloads\CSE170\Lab01\BasicOpenGLProject\BasicOpenGLProject\main.cpp(58,99): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+C:\Users\salva\Downloads\CSE170\Lab01\BasicOpenGLProject\BasicOpenGLProject\main.cpp(58,69): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+C:\Users\salva\Downloads\CSE170\Lab01\BasicOpenGLProject\BasicOpenGLProject\main.cpp(58,39): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+C:\Users\salva\Downloads\CSE170\Lab01\BasicOpenGLProject\BasicOpenGLProject\main.cpp(64,32): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\salva\Downloads\CSE170\Lab01\BasicOpenGLProject\BasicOpenGLProject\main.cpp(64,70): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\salva\Downloads\CSE170\Lab01\BasicOpenGLProject\BasicOpenGLProject\main.cpp(64,107): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\salva\Downloads\CSE170\Lab01\BasicOpenGLProject\BasicOpenGLProject\main.cpp(108,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\salva\Downloads\CSE170\Lab01\BasicOpenGLProject\BasicOpenGLProject\main.cpp(114,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  BasicOpenGLProject.vcxproj -> C:\Users\salva\Downloads\CSE170\Lab01\BasicOpenGLProject\x64\Debug\BasicOpenGLProject.exe

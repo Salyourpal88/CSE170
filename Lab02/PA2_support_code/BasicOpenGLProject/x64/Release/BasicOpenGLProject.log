@@ -1,0 +1,39 @@
+﻿  main.cpp
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(61,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(97,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(101,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(119,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(120,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(121,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(122,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(123,7): error C2065: 'Origin': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(133,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(134,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(135,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(136,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(137,7): error C2065: 'Origin': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(146,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(147,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(148,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(149,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(150,7): error C2065: 'Origin': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(159,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(160,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(161,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(162,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(163,7): error C2065: 'Origin': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(172,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(173,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(174,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(175,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(176,7): error C2065: 'Origin': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(185,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(186,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(187,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(188,12): error C2065: 'vector_Rr3': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(189,7): error C2065: 'Origin': undeclared identifier
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(333,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(344,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(355,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(366,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab02\PA2_support_code\BasicOpenGLProject\main.cpp(475,46): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data

@@ -1,0 +1,129 @@
+﻿  main.cpp
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(247,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(247,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(247,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(252,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(252,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(252,8): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(259,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(259,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(259,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(263,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(263,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(263,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(267,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(267,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(267,11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(271,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(271,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(271,11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(278,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(278,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(278,11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(281,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(281,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(281,11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(284,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(284,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(284,11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(287,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(287,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(287,11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(291,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(291,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(291,11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(294,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(294,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(294,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(297,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(297,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(297,11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(301,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(301,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(301,11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(304,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(304,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(304,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(307,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(307,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(307,11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(311,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(311,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(311,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(314,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(314,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(314,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(317,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(317,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(317,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(321,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(321,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(321,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(324,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(324,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(324,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(327,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(327,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(327,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(611,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(1342,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(1345,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(1516,2): warning C4060: switch statement contains no 'case' or 'default' labels
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(1587,27): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(1588,27): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(1589,27): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(1636,27): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(1637,27): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(1638,27): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(1686,24): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(1689,24): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(1693,24): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(1696,23): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(1754,45): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(1760,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Generating code
+  3 of 1108 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    27 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  BasicOpenGLProject.vcxproj -> C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\x64\Release\OpenGLProject.exe

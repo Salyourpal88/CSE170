@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\BasicOpenGLProject\main.cpp(456,55): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  shader.cpp
+  shaderprogram.cpp
+  Generating Code...
+  LINK : C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\x64\Debug\OpenGLProject.exe not found or not built by the last incremental link; performing full link
+  BasicOpenGLProject.vcxproj -> C:\Users\salva\OneDrive\Documents\CSE170\Project\PA2_support_code\x64\Debug\OpenGLProject.exe

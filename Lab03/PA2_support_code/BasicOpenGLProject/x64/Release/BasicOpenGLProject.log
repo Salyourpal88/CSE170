@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\salva\OneDrive\Documents\CSE170\Lab03\PA2_support_code\BasicOpenGLProject\main.cpp(68,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\salva\OneDrive\Documents\CSE170\Lab03\PA2_support_code\BasicOpenGLProject\main.cpp(118,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab03\PA2_support_code\BasicOpenGLProject\main.cpp(123,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab03\PA2_support_code\BasicOpenGLProject\main.cpp(429,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab03\PA2_support_code\BasicOpenGLProject\main.cpp(443,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab03\PA2_support_code\BasicOpenGLProject\main.cpp(457,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab03\PA2_support_code\BasicOpenGLProject\main.cpp(471,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab03\PA2_support_code\BasicOpenGLProject\main.cpp(636,46): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\salva\OneDrive\Documents\CSE170\Lab03\PA2_support_code\BasicOpenGLProject\main.cpp(639,40): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  shader.cpp
+  shaderprogram.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 530 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BasicOpenGLProject.vcxproj -> C:\Users\salva\OneDrive\Documents\CSE170\Lab03\PA2_support_code\x64\Release\OpenGLProject.exe
